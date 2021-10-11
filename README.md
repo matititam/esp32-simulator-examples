@@ -4,7 +4,7 @@ You can run all the ESP32 proejcts in your browser. You can make your own copy a
 
 ## Arduino Core ESP32 Simulator examples
 
-`Arduino Blink LED` 
+*`Arduino Blink LED`*
 In this example, you will blink an LED conencted to D2 pin of ESP32. You will blink the LED every one second. 
 
 <https://wokwi.com/arduino/projects/305566932847821378>
