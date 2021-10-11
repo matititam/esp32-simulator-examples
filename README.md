@@ -1,8 +1,8 @@
-#ESP32 Online Simulator examples (by Wokwi)#
+# ESP32 Online Simulator examples (by Wokwi)
 
 You can run all the ESP32 proejcts in your browser. You can make your own copy and versions by selecting "Save a Copy" option. All the programs run straight out of the browser. you will learn ESP32 programming online faster. Micropython is supported too!
 
-## Arduino Core ESP32 Simulator examples##
+## Arduino Core ESP32 Simulator examples
 
 `Arduino Blink LED` 
 In this example, you will blink an LED conencted to D2 pin of ESP32. You will blink the LED every one second. 
